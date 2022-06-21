@@ -1,0 +1,52 @@
+2022-06-11T11:50:16+00:00 CRITICAL Uncaught Error: Call to undefined function doctreat_get_linked_profile_id() in /home4/iticms/public_html/wp-content/plugins/doctreat_core/admin/post-types/doctors.php:28
+Stack trace:
+#0 /home4/iticms/public_html/wp-includes/class-wp-hook.php(307): Doctreat_Doctors->linked_profile_add_meta_box('elementor-hf', Object(WP_Post))
+#1 /home4/iticms/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 /home4/iticms/public_html/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /home4/iticms/public_html/wp-admin/includes/meta-boxes.php(1599): do_action('add_meta_boxes', 'elementor-hf', Object(WP_Post))
+#4 /home4/iticms/public_html/wp-admin/edit-form-advanced.php(271): register_and_do_post_meta_boxes(Object(WP_Post))
+#5 /home4/iticms/public_html/wp-admin/post.php(206): require('/home4/iticms/p...')
+#6 {main}
+  thrown in /home4/iticms/public_html/wp-content/plugins/doctreat_core/admin/post-types/doctors.php on line 28
+
+2022-06-11T11:50:18+00:00 CRITICAL Uncaught Error: Call to undefined function doctreat_get_linked_profile_id() in /home4/iticms/public_html/wp-content/plugins/doctreat_core/admin/post-types/doctors.php:28
+Stack trace:
+#0 /home4/iticms/public_html/wp-includes/class-wp-hook.php(307): Doctreat_Doctors->linked_profile_add_meta_box('elementor-hf', Object(WP_Post))
+#1 /home4/iticms/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 /home4/iticms/public_html/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /home4/iticms/public_html/wp-admin/includes/meta-boxes.php(1599): do_action('add_meta_boxes', 'elementor-hf', Object(WP_Post))
+#4 /home4/iticms/public_html/wp-admin/edit-form-advanced.php(271): register_and_do_post_meta_boxes(Object(WP_Post))
+#5 /home4/iticms/public_html/wp-admin/post.php(206): require('/home4/iticms/p...')
+#6 {main}
+  thrown in /home4/iticms/public_html/wp-content/plugins/doctreat_core/admin/post-types/doctors.php on line 28
+
+2022-06-11T11:50:27+00:00 CRITICAL Uncaught Error: Call to undefined function doctreat_get_linked_profile_id() in /home4/iticms/public_html/wp-content/plugins/doctreat_core/admin/post-types/doctors.php:28
+Stack trace:
+#0 /home4/iticms/public_html/wp-includes/class-wp-hook.php(307): Doctreat_Doctors->linked_profile_add_meta_box('elementor-hf', Object(WP_Post))
+#1 /home4/iticms/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 /home4/iticms/public_html/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /home4/iticms/public_html/wp-admin/includes/meta-boxes.php(1599): do_action('add_meta_boxes', 'elementor-hf', Object(WP_Post))
+#4 /home4/iticms/public_html/wp-admin/edit-form-advanced.php(271): register_and_do_post_meta_boxes(Object(WP_Post))
+#5 /home4/iticms/public_html/wp-admin/post.php(206): require('/home4/iticms/p...')
+#6 {main}
+  thrown in /home4/iticms/public_html/wp-content/plugins/doctreat_core/admin/post-types/doctors.php on line 28
+
+2022-06-11T11:56:00+00:00 CRITICAL Uncaught Error: Call to undefined function doctreat_get_linked_profile_id() in /home4/iticms/public_html/wp-content/plugins/doctreat_core/admin/post-types/doctors.php:28
+Stack trace:
+#0 /home4/iticms/public_html/wp-includes/class-wp-hook.php(307): Doctreat_Doctors->linked_profile_add_meta_box('elementor-hf', Object(WP_Post))
+#1 /home4/iticms/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 /home4/iticms/public_html/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /home4/iticms/public_html/wp-admin/includes/meta-boxes.php(1599): do_action('add_meta_boxes', 'elementor-hf', Object(WP_Post))
+#4 /home4/iticms/public_html/wp-admin/edit-form-advanced.php(271): register_and_do_post_meta_boxes(Object(WP_Post))
+#5 /home4/iticms/public_html/wp-admin/post.php(206): require('/home4/iticms/p...')
+#6 {main}
+  thrown in /home4/iticms/public_html/wp-content/plugins/doctreat_core/admin/post-types/doctors.php on line 28
+
+2022-06-11T17:58:51+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\DownloadPermissionsAdjuster::get_download_files_and_permissions() must be an instance of WC_Product, bool given, called in /home4/iticms/public_html/wp-content/plugins/woocommerce/src/Internal/DownloadPermissionsAdjuster.php on line 103 and defined in /home4/iticms/public_html/wp-content/plugins/woocommerce/src/Internal/DownloadPermissionsAdjuster.php:138
+Stack trace:
+#0 /home4/iticms/public_html/wp-content/plugins/woocommerce/src/Internal/DownloadPermissionsAdjuster.php(103): Automattic\WooCommerce\Internal\DownloadPermissionsAdjuster->get_download_files_and_permissions(false)
+#1 /home4/iticms/public_html/wp-includes/class-wp-hook.php(307): Automattic\WooCommerce\Internal\DownloadPermissionsAdjuster->adjust_download_permissions(34)
+#2 /home4/iticms/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#3 /home4/iticms/public_html/wp-includes/plugin.php(524): WP_Hook->do_action(Array)
+#4 /home4/iticms/public_h in /home4/iticms/public_html/wp-content/plugins/woocommerce/src/Internal/DownloadPermissionsAdjuster.php on line 138
+

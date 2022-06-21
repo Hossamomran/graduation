@@ -1,0 +1,427 @@
+/*
+
+    The following CSS codes are created by the YellowPencil plugin.
+    https://yellowpencil.waspthemes.com/
+
+
+    T A B L E   O F   C O N T E N T S
+    ........................................................................
+
+    01. Global Styles
+    02. "MA.mugw101 Mug &#8211; Multi Color" Product
+    03. "DISI.OF800027 Chair-Black" Product
+    04. "Home Full Width" Page
+    05. "My Account" Page
+    06. "Office" Page
+    07. "Office-Chair" Page
+
+*/
+
+
+
+/*-----------------------------------------------*/
+/*  Global Styles                                */
+/*-----------------------------------------------*/
+body #content .mf-catalog-categories .row{
+	margin: 4px, 4px;
+	padding: 4px;
+	background-color: #fff;
+	width: 300px;
+	overflow-x: auto;
+	overflow-y: hidden;
+	white-space: nowrap;
+	display:-webkit-box;	display:-webkit-flex;	display:-ms-flexbox;	display:flex;
+	-webkit-transform:translatex(0px) translatey(0px);	-ms-transform:translatex(0px) translatey(0px);	transform:translatex(0px) translatey(0px);
+}
+
+body .mf-catalog-categories .col-cat{
+	padding-left:0px;
+	left:62px;
+	top:21px;
+	border-top-left-radius:0px;
+	border-top-right-radius:10px;
+	border-bottom-left-radius:0px;
+	border-bottom-right-radius:0px;
+}
+
+body #content{
+	-webkit-transform:translatex(0px) translatey(0px);	-ms-transform:translatex(0px) translatey(0px);	transform:translatex(0px) translatey(0px);
+}
+
+body .mf-catalog-categories .col-cat img{
+	display:inline-flex;
+	height:58px;
+	-webkit-box-orient:column;	-webkit-box-direction:column;	-ms-flex-direction:column;	flex-direction:column;
+	max-width:100%;
+	padding-left:-1px;
+	margin-left:19px;
+	margin-right:5px;
+	margin-top:7px;
+	display:-webkit-sticky;	display:sticky;
+	top:-16px;
+	left:-25px;
+	bottom:70px;
+	z-index:176;
+}
+
+body #page #content .container .row .mf-catalog-categories .row .col-cat .mf-image-box .thumbnail img{
+	width:557px !important;
+}
+
+body #page #content .container .row .mf-catalog-categories .row .col-cat .mf-image-box .image-content{
+	width:93px !important;
+}
+
+body .mf-catalog-categories .col-cat .box-title{
+	display:inline-flex;
+	-webkit-box-orient:column;	-webkit-box-direction:column;	-ms-flex-direction:column;	flex-direction:column;
+	-ms-flex-line-pack:flex-end;	align-content:flex-end;
+	-webkit-box-align:flex-end !important;	-ms-flex-align:flex-end !important;	align-items:flex-end !important;
+	-webkit-box-pack:flex-end;	-ms-flex-pack:flex-end;	justify-content:flex-end;
+	display:-webkit-sticky;	display:sticky;
+	top:-83px;
+	white-space:break-spaces;
+}
+
+body #page #content .container .row .mf-catalog-categories .row{
+	width:1221% !important;
+}
+
+body .woocommerce-products-header div .add_to_cart_button{
+	color:#ffffff;
+}
+
+body #page #content .container .row #primary .woocommerce-products-header .mf-products-top-carousel .woocommerce .products div div .product .product-inner .mf-product-details .mf-product-price-box .add_to_cart_button{
+	font-family:'m' !important;
+}
+
+body .products .product .add_to_cart_button{
+	border-radius: 8px;
+	border-top-left-radius: 8px;
+	border-top-right-radius: 8px;
+	border-bottom-right-radius: 8px;
+	border-bottom-left-radius: 8px;
+	padding: 5px 15px;
+	padding-top: 5px;
+	padding-right: 15px;
+	padding-bottom: 5px;
+	padding-left: 15px;
+	text-transform: capitalize;
+	font-weight:600;
+	background-color: #12264b;
+	transition: background-color .5s ease;
+	border: 1px solid #12264b;
+	color: #fff;
+	margin: 10px auto 10px 0;
+	display: block;
+	font-size:13px;
+	height:41px;
+	overflow:visible !important;
+}
+
+body .products .product .product-inner{
+	position:relative;
+	height:400px;
+	overflow:hidden;
+	border-top-left-radius:6px;
+	border-top-right-radius:6px;
+	border-bottom-right-radius:6px;
+	border-color:#fff !important;
+	cursor:pointer;
+}
+
+body .products a img{
+	height:100%;
+	padding-bottom:0px;
+}
+
+body .products .product .add-to-cart-text{
+	font-family:'Montserrat', sans-serif;
+	color:#ffffff;
+}
+
+body #primary #mf-shop-content .products .product .product-inner .mf-product-details .mf-product-price-box .add_to_cart_button{
+	padding-right:15px !important;
+}
+
+body #page #content .container .row #primary #mf-shop-content .products .product .product-inner .mf-product-details .mf-product-price-box .add_to_cart_button{
+	width:100% !important;
+	display: inline-block;
+	font-size: 5px;
+}
+
+body #page #content .martfury-container .row .mf-catalog-categories .row{
+	width:100% !important;
+}
+
+body .mf-catalog-categories .col-cat .mf-image-box{
+	-ms-flex-wrap:wrap;	flex-wrap:wrap;
+	-webkit-box-align:center;	-ms-flex-align:center;	align-items:center;
+	-webkit-box-pack:center;	-ms-flex-pack:center;	justify-content:center;
+	-webkit-box-orient:column;	-webkit-box-direction:column;	-ms-flex-direction:column;	flex-direction:column;
+	font-weight:300;
+	text-align:center;
+	width:124px;
+	height:173px;
+	-ms-flex-line-pack:center;	align-content:center;
+}
+
+body #page #content .martfury-container .row .mf-catalog-categories .row .col-cat .mf-image-box .thumbnail img{
+	width:100% !important;
+}
+
+body .mf-catalog-categories .col-cat .image-content{
+	width:10px;
+	overflow:visible;
+	opacity:0.96;
+	-ms-flex-item-align:flex-start;	-ms-grid-row-align:flex-start;	align-self:flex-start;
+}
+
+body .mf-catalog-categories .col-cat .thumbnail{
+	display:block;
+	width:111px;
+	position:relative;
+	left:-16px;
+	bottom:-4px;
+	top:-8px;
+}
+
+@media (max-width:767px){
+
+	body .mf-catalog-categories .col-cat .box-title{
+	font-size:8px !important;
+	}
+
+}
+
+
+
+@media (min-width:768px){
+
+	body #content .martfury-container .row .mf-catalog-categories .row .col-cat .mf-image-box .image-content .box-title{
+	font-size:15px !important;
+	}
+
+}
+
+
+
+@media (min-width:992px){
+
+	body .mf-catalog-categories .col-cat{
+	width:134px;
+	}
+
+}
+
+
+
+/*-----------------------------------------------*/
+/*  "MA.mugw101 Mug &#8211; Multi Color" Product */
+/*-----------------------------------------------*/
+body.postid-5938 .single_add_to_cart_button{
+	border-top-left-radius:8px !important;
+	border-top-right-radius:8px !important;
+	border-bottom-left-radius:8px !important;
+	-webkit-transform:translatex(0px) translatey(0px);	-ms-transform:translatex(0px) translatey(0px);	transform:translatex(0px) translatey(0px);
+	top:8px;
+	min-width:1px !important;
+	width:165px;
+	height:43px !important;
+	padding-top:0px !important;
+	padding-left:22px !important;
+	padding-right:20px !important;
+	color:#ffffff !important;
+}
+
+body.postid-5938 #page #content .container .row #primary .product .mf-product-detail .entry-summary .cart .single_add_to_cart_button{
+	border-bottom-right-radius:8px !important;
+}
+
+body.postid-5938 #content .container .row #primary .product .mf-product-detail .entry-summary .cart .single_add_to_cart_button{
+	margin-left:0px !important;
+	padding-bottom:45px !important;
+}
+
+body.postid-5938 .mf-product-detail .woocommerce-product-gallery ol{
+	right:108px;
+	left:-8px !important;
+	bottom:-86px;
+	top:248px !important;
+	-webkit-transform:translatex(0px) translatey(0px);	-ms-transform:translatex(0px) translatey(0px);	transform:translatex(0px) translatey(0px);
+}
+
+body.postid-5938 .mf-entry-product-header .entry-left h1{
+	position:relative;
+	top:6px;
+	left:530px;
+	bottom:86px;
+	right:83px;
+}
+
+body.postid-5938 #primary .product .mf-entry-product-header{
+	border-width:0px;
+}
+
+body.postid-5938 .woocommerce-product-details__short-description ul a{
+	-webkit-transform: translatex(115px) translatey(-27px);	-ms-transform: translatex(115px) translatey(-27px);	transform: translatex(115px) translatey(-27px);
+}
+
+body.postid-5938 .woocommerce-product-details__short-description ul h4{
+	-webkit-transform: translatex(3px);	-ms-transform: translatex(3px);	transform: translatex(3px);
+}
+
+body.postid-5938 .mf-product-detail .entry-summary form{
+	position:relative;
+	left:1px;
+	top:-690px;
+	bottom:-200px;
+	right:-200px;
+}
+
+body.postid-5938 #primary .product .entry-summary{
+	position:relative;
+	bottom:-54px;
+	-webkit-transform:translatex(0px) translatey(0px);	-ms-transform:translatex(0px) translatey(0px);	transform:translatex(0px) translatey(0px);
+}
+
+body.postid-5938 .mf-product-detail .entry-summary .price{
+	position:relative;
+	top:-54px;
+}
+
+body.postid-5938 .mf-summary-header .mf-summary-meta p{
+	position:relative;
+	top:-58px;
+}
+
+body.postid-5938 #primary .product .mf-product-detail{
+	-webkit-transform:translatex(0px) translatey(0px);	-ms-transform:translatex(0px) translatey(0px);	transform:translatex(0px) translatey(0px);
+}
+
+body.postid-5938 .mf-product-detail .woocommerce-product-gallery .product-image-ms{
+	top:448px;
+}
+
+body.postid-5938 #tab-description{
+	position:relative;
+	top:-238px;
+}
+
+body.postid-5938 .mf-product-summary .woocommerce-tabs .wc-tabs{
+	top:-210px;
+	-webkit-transform:translatex(0px) translatey(0px);	-ms-transform:translatex(0px) translatey(0px);	transform:translatex(0px) translatey(0px);
+}
+
+body.postid-5938 #page .related{
+	position:relative;
+	top:-200px;
+}
+
+
+
+/*-----------------------------------------------*/
+/*  "DISI.OF800027 Chair-Black" Product          */
+/*-----------------------------------------------*/
+body.postid-4588 .entry-summary .cart .single_add_to_cart_button{
+	color:#ffffff !important;
+}
+
+
+
+/*-----------------------------------------------*/
+/*  "Home Full Width" Page                       */
+/*-----------------------------------------------*/
+body.page-id-2537 .mf-elementor-product-deals-grid .product .product-inner{
+	-webkit-transform:translatex(0px) translatey(0px);	-ms-transform:translatex(0px) translatey(0px);	transform:translatex(0px) translatey(0px);
+}
+
+
+
+/*-----------------------------------------------*/
+/*  "My Account" Page                            */
+/*-----------------------------------------------*/
+body.page-id-5822 .wpb_wrapper .account-info{
+	background-color:#999999;
+	-webkit-box-orient:row;	-webkit-box-direction:row;	-ms-flex-direction:row;	flex-direction:row;
+	-ms-flex-wrap:nowrap;	flex-wrap:nowrap;
+}
+
+body.page-id-5822 #content .container .row #primary #main .hentry .entry-content .wpb_row .container .row .vc_column_container .vc_column-inner .wpb_wrapper .woocommerce .account-info{
+	width:25% !important;
+}
+
+body.page-id-5822 .wpb_wrapper p{
+	display:block;
+	-webkit-transform:translatex(0px) translatey(0px);	-ms-transform:translatex(0px) translatey(0px);	transform:translatex(0px) translatey(0px);
+}
+
+body.page-id-5822 .woocommerce-MyAccount-navigation ul li{
+	background-color:#f1f1f2 !important;
+}
+
+
+
+/*-----------------------------------------------*/
+/*  "Office" Page                                */
+/*-----------------------------------------------*/
+body.page-id-6701 #page .page-header-page h1{
+	display:none;
+}
+
+body.page-id-6701 .elementor-widget-martfury-products-of-category .mf-products-of-category .cats-info{
+	display:none;
+}
+
+body.page-id-6701 .elementor-element-682ef69 .elementor-widget-wrap{
+	left:74px;
+}
+
+body.page-id-6701 .elementor-widget-martfury-products-of-category .mf-products-of-category{
+	position:relative;
+}
+
+body.page-id-6701 #primary #main .hentry .entry-content .elementor .elementor-element-682ef69 .elementor-container .elementor-top-column .elementor-widget-wrap .elementor-widget-martfury-products-of-category .elementor-widget-container .mf-products-of-category{
+	width:89% !important;
+}
+
+body.page-id-6701 .elementor-element-682ef69 .elementor-top-column{
+	min-height:0px;
+	padding-top:48px;
+	-webkit-transform:translatex(0px) translatey(0px);	-ms-transform:translatex(0px) translatey(0px);	transform:translatex(0px) translatey(0px);
+}
+
+@media (min-width:768px){
+
+	body.page-id-6701 .elementor-element-682ef69 .elementor-top-column{
+	width:97% !important;
+	}
+
+}
+
+
+
+/*-----------------------------------------------*/
+/*  "Office-Chair" Page                          */
+/*-----------------------------------------------*/
+body.page-id-6797 .elementor-widget-martfury-products-of-category .mf-products-of-category .cats-info{
+	display:none;
+}
+
+body.page-id-6797 .elementor-widget-martfury-products-of-category .mf-products-of-category{
+	padding-left:0px;
+	padding-right:0px;
+	padding-top:0px;
+	padding-bottom:0px;
+	position:relative;
+}
+
+body.page-id-6797 #page .page-header-page h1{
+	display:none;
+}
+
+body.page-id-6797 .elementor-element-196b295 .elementor-widget-martfury-products-of-category .elementor-widget-container{
+	position:relative;
+	top:-33px;
+	left:21px;
+}
