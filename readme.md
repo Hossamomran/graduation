@@ -51,7 +51,7 @@ Name | Version
 ---
 ![image](https://user-images.githubusercontent.com/65419643/175556337-437f4ede-88a6-4089-ae89-96990ebfd3ff.png)
 ---
-2.then Create a  new database Called "new"  with type using PHP My Admin
+2.Then Create a  new database Called "new"  with using PHP My Admin
 ---
 ![image](https://user-images.githubusercontent.com/65419643/175556238-8a878f61-2eda-41f7-9bd0-877a90d36d35.png)
 ---
@@ -64,11 +64,16 @@ Name | Version
 ---
  ![image](https://user-images.githubusercontent.com/65419643/175556700-e72c9f1c-fddc-4081-aeb3-66af3c444d5b.png)
 ---
-4.Then open your apache server and start its service with MY Sql start to
+4.Then open your apache server and start its service with MY Sql start 
+---
 5.then go to localhost/new
-6.It will take a while to load 
-7.For wp dashboard you can use localhost/new/wp-admin
-8.to login use username : Hossam password : hossam12333
+---
+7.It will take a while to load 
+---
+9.For wp dashboard you can use localhost/new/wp-admin
+---
+10.to login use username : Hossam password : hossam12333
+---
 ## setup-2
 1. Go to https://drive.google.com/drive/folders/1jizivwgmdwL0E0a35xm6wS8geX3aOTjS?usp=sharing
 2. Download All files 
@@ -88,5 +93,7 @@ Name | Version
  ![image](https://user-images.githubusercontent.com/65419643/175561437-6e3315f6-6648-4b4b-9894-c7f0942567e9.png)
 16. wait tell it finish loading 
 ![image](https://user-images.githubusercontent.com/65419643/175561520-84311656-cc10-4ba4-a0da-7de65ea78256.png)
-
+17. Go to localhost/homzmart to view the project 
+18.For wp dashboard you can use localhost/new/wp-admin
+19-to login use username : Hossam password : hossam12333
 
