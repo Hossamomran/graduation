@@ -95,6 +95,7 @@ Name | Version
 ![image](https://user-images.githubusercontent.com/65419643/175561520-84311656-cc10-4ba4-a0da-7de65ea78256.png)
 17. Go to localhost/homzmart to view the project 
 ![image](https://user-images.githubusercontent.com/65419643/175567136-dd69d091-cf33-430a-809d-10c251b3796c.png)
-19.For wp dashboard you can use localhost/new/wp-admin
-20-to login use username : Hossam password : hossam12333
+18.For wp dashboard you can use localhost/new/wp-admin*
+
+19.login use username : Hossam password : hossam12333*
 
