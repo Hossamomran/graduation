@@ -46,7 +46,16 @@ Name | Version
 *YellowPencil Pro* | `Version 7.5.6`
 *Yoast SEO* | `Version 19.1`
 ## Setup
-* 1- Fork this Repo in a Folder Called "new" : >>>>>  A mandatory Step for paths.
+* 1- Fork this Repo in a Folder Called "new" : >>>>>  A mandatory Step for paths. ( This folder must be in htdocs in Xamp folder)
+* ![image](https://user-images.githubusercontent.com/65419643/175556337-437f4ede-88a6-4089-ae89-96990ebfd3ff.png)
 * 2- then Create a  new database Called "new"  with type using PHP My Admin
+* ![image](https://user-images.githubusercontent.com/65419643/175556238-8a878f61-2eda-41f7-9bd0-877a90d36d35.png)
 * 3- Import sql from database Folder 
-* 4-  
+* ![image](https://user-images.githubusercontent.com/65419643/175556449-50923175-0292-4b39-9824-6020a797c4fe.png)
+* ![image](https://user-images.githubusercontent.com/65419643/175556810-aea35063-fa09-4b65-8130-36c97662c66c.png)
+* ![image](https://user-images.githubusercontent.com/65419643/175556700-e72c9f1c-fddc-4081-aeb3-66af3c444d5b.png)
+* 4-  Then open your apache server and start its service with MY Sql start to
+* 5-then go to localhost/new
+* 6-It will take a while to load 
+* 7- For wp dashboard you can use localhost/new/wp-admin
+* 8-to login use username : Hossam password : hossam12333
