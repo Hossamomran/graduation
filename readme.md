@@ -90,12 +90,11 @@ Name | Version
 13. ![image](https://user-images.githubusercontent.com/65419643/175560851-a4915701-a70a-4c97-86b8-644e707912b5.png)
 14. then validate ![image](https://user-images.githubusercontent.com/65419643/175560987-d545fd3f-00f4-4308-893d-130ef28e5b09.png)
 15. then agree 
- ![image](https://user-images.githubusercontent.com/65419643/175561437-6e3315f6-6648-4b4b-9894-c7f0942567e9.png)
-16. wait tell it finish loading 
-![image](https://user-images.githubusercontent.com/65419643/175561520-84311656-cc10-4ba4-a0da-7de65ea78256.png)
-17. Go to localhost/homzmart to view the project 
-![image](https://user-images.githubusercontent.com/65419643/175567136-dd69d091-cf33-430a-809d-10c251b3796c.png)
-18.For wp dashboard you can use localhost/new/wp-admin*
-
-19.login use username : Hossam password : hossam12333*
+ 16. ![image](https://user-images.githubusercontent.com/65419643/175561437-6e3315f6-6648-4b4b-9894-c7f0942567e9.png)
+17. wait tell it finish loading 
+18. ![image](https://user-images.githubusercontent.com/65419643/175561520-84311656-cc10-4ba4-a0da-7de65ea78256.png)
+19. Go to localhost/homzmart to view the project 
+20. ![image](https://user-images.githubusercontent.com/65419643/175567136-dd69d091-cf33-430a-809d-10c251b3796c.png)
+21. For wp dashboard you can use localhost/new/wp-admin*
+22. login use username : Hossam password : hossam12333*
 
