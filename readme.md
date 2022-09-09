@@ -73,7 +73,6 @@ Name | Version
 ---
 9.For wp dashboard you can use localhost/new/wp-admin
 ---
-10.to login use username : Hossam password : hossam12333
 ---
 ## setup-2
 1. Go to https://drive.google.com/drive/folders/1jizivwgmdwL0E0a35xm6wS8geX3aOTjS?usp=sharing
